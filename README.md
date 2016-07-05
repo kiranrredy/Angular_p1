@@ -46,7 +46,7 @@ If you'd rather preserve your work under source control, consider taking the fol
 Initialize this project as a *local git repo* and make the first commit:
 ```bash
 git init
-git add -all
+git add --all
 git commit -m "Initial commit"
 ```
 
